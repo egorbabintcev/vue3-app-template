@@ -1,0 +1,16 @@
+@use './variables' as *;
+
+@use './fonts/Roboto';
+@use './fonts/MaterialIcons';
+
+@use '~reset-css/sass/reset';
+
+@use './modules';
+
+html {
+  font-family: $preferred-font;
+
+  * {
+    box-sizing: border-box;
+  }
+}

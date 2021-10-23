@@ -1,0 +1,14 @@
+.main-screen {
+  width: 100%;
+  min-height: 100vh;
+
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+.main-screen__content {
+  flex-grow: 1;
+  width: 100%;
+
+  padding: 16px;
+}
