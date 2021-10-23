@@ -1,4 +1,4 @@
-# guess-it
+# Vue 3 app template
 
 ## Project setup
 ```
